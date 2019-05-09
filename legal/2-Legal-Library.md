@@ -117,6 +117,8 @@
             -   A bitcoin miner is not a money transmitter when converting bitcoin to fiat for its own purposes and not as a business service for the benefit of others.
     -   [Application of FinCEN's Regulations to Persons Administering, Exchanging, or Using Virtual Currencies](https://www.fincen.gov/sites/default/files/shared/FIN-2013-G001.pdf) (Mar. 18, 2013)
         -   Initial guidance from FinCEN addressing who within the virtual currency industry is considered a money transmitter.
+    -   [Application of FinCEN’s Regulations to Certain Business Models Involving Convertible Virtual Currencies](https://www.fincen.gov/sites/default/files/2019-05/FinCEN%20CVC%20Guidance%20FINAL.pdf) (May 9, 2019)
+        -   Follow-on guidance detailing how FinCEN regulations relating to money services businesses apply to certain business models involving virtual currencies.
 -   #### Commentary & Analysis
     -   [Electronic Cash, Decentralized Exchange, and the Constitution](https://coincenter.org/files/e-cash-dex-constitution.pdf) by Peter Van Valkenburgh - Coin Center (March 2019)
     -   [The Bank Secrecy Act, Cryptocurrencies and New Tokens: What is Known and What Remains Ambiguous](https://coincenter.org/files/2017-05/report-bsa-crypto-token1.pdf) by Peter Van Valkenburgh - Coin Center (May 2017)
